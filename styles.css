@@ -32,6 +32,11 @@ a {
 .hero {
     background-color: #1F2937;
     display: flex;
+    padding: 50px 20px;
+}
+
+.hero-content {
+    justify-content: flex-start;
 }
 
 .main-text {
