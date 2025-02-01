@@ -89,13 +89,26 @@ button {
 .gallery {
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 40px;
 }
 
 .info {
     display: flex;
     flex-direction: column;
-    width: 200px;
+    width: 150px;
     gap: 5px;
     align-items: center;
+}
+
+.info-img {
+    width: 150px;
+    height: 150px;
+    outline: 3px solid #3882F6;
+    border-radius: 6px;
+}
+
+.info .subtext {
+    display: flex;
+    color: rgb(110, 106, 106);
+    text-align: center;
 }
