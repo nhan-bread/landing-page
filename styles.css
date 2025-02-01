@@ -41,6 +41,11 @@ a {
     justify-content: flex-start;
 }
 
+.hero-img {
+    display: flex;
+    flex: 1;
+}
+
 .main-text {
     color: #F9FaF8;
     font-size: 48px;
