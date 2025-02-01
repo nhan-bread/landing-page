@@ -75,3 +75,18 @@ button {
     padding: 5px 20px;
     font-weight: 700;
 }
+
+.information {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.information-header {
+    align-self: center;
+}
+
+.gallery {
+    display: flex;
+    justify-content: space-evenly;
+}
