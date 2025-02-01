@@ -79,17 +79,22 @@ button {
 .information {
     display: flex;
     flex-direction: column;
-
+    padding: 30px;
 }
 
 .information-header {
     align-self: center;
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
 }
 
 .gallery {
     display: flex;
     justify-content: center;
     gap: 40px;
+    padding: 30px;
+    flex-wrap: wrap;
 }
 
 .info {
