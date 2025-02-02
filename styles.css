@@ -142,3 +142,15 @@ button {
     font-size: 24px;
     align-self: flex-end;
 }
+
+.action {
+    padding: 60px 20px;
+}
+
+.action-banner {
+    background-color: #3882F6;
+    border-radius: 4px;
+    display: flex;
+    padding: 30px 70px;
+}
+
