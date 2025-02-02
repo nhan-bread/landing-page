@@ -103,7 +103,7 @@ button {
 .info {
     display: flex;
     flex-direction: column;
-    width: 150px;
+    width: 170px;
     gap: 5px;
     align-items: center;
 }
