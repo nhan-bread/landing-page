@@ -36,7 +36,7 @@ a {
 .hero {
     background-color: #1F2937;
     display: flex;
-    padding: 50px 20px;
+    padding: 30px 40px;
 }
 
 .hero-content {
@@ -82,7 +82,7 @@ button {
 .information {
     display: flex;
     flex-direction: column;
-    padding: 30px;
+    padding: 40px;
 }
 
 .information-header {
@@ -181,7 +181,7 @@ button {
 
 .footer {
     background-color: #1F2937;
-    padding: 40px;
+    padding: 30px;
     display: flex;
     justify-content: center;
 }
