@@ -7,8 +7,7 @@ body {
     margin: 0;
 }
 
-.header,
-.footer {
+.header {
     background-color: #1F2937;
     display: flex;
     justify-content: space-between;
@@ -179,3 +178,14 @@ button {
     outline: 3px solid white;
 }
 
+.footer {
+    background-color: #1F2937;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.footer-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
