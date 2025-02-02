@@ -73,9 +73,10 @@ button {
     background-color: #3882F6;
     color: #F9FAF8;
     border: #3882F6;
-    border-radius: 4px;
-    padding: 5px 20px;
+    border-radius: 8px;
+    padding: 10px 35px;
     font-weight: 700;
+    font-size: 18px;
 }
 
 .information {
@@ -144,13 +145,35 @@ button {
 }
 
 .action {
-    padding: 60px 20px;
+    padding: 120px 20px;
 }
 
 .action-banner {
     background-color: #3882F6;
     border-radius: 4px;
     display: flex;
-    padding: 30px 70px;
+    padding: 50px 100px;
 }
 
+.action-text {
+    flex: 3;
+}
+
+.action-header {
+    color: #F9FAF8;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.action-info {
+    color: #F9FAF8;
+    font-size: 18px;
+}
+
+.action-button {
+    flex: 1;
+}
+
+.action-button button {
+    outline: 3px solid white;
+}
