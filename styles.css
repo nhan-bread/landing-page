@@ -153,6 +153,7 @@ button {
     border-radius: 4px;
     display: flex;
     padding: 50px 100px;
+    align-items: center;
 }
 
 .action-text {
