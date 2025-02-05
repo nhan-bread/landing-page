@@ -5,14 +5,17 @@ body {
     flex-direction: column;
     font-family: Roboto;
     margin: 0;
+    height: 100vh;
+    justify-content: space-between;
 }
 
 .header {
     background-color: #1F2937;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
-    padding: 30px 40px 0px;
+    padding: 20px 40px 0px;
+    gap: 315px;
 }
 
 .logo {
@@ -26,11 +29,11 @@ ul {
     display: flex;
     margin: 0;
     padding: 0;
+    gap: 12px;
 }
 
 a {
     text-decoration: none;
-    margin: 12px;
 }
 
 .hero {
