@@ -148,7 +148,9 @@ button {
 }
 
 .action {
-    padding: 120px 20px;
+    padding: 100px 40px;
+    display: flex;
+    justify-content: center;
 }
 
 .action-banner {
@@ -157,10 +159,9 @@ button {
     display: flex;
     padding: 50px 100px;
     align-items: center;
-}
-
-.action-text {
-    flex: 3;
+    justify-content: center;
+    gap: 120px;
+    width: 900px;
 }
 
 .action-header {
@@ -172,10 +173,6 @@ button {
 .action-info {
     color: #F9FAF8;
     font-size: 18px;
-}
-
-.action-button {
-    flex: 1;
 }
 
 .action-button button {
