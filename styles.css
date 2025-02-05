@@ -12,10 +12,14 @@ body {
 .header {
     background-color: #1F2937;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: center; 
     padding: 20px 40px 0px;
-    gap: 330px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    width: 870px;
 }
 
 .logo {
