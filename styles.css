@@ -15,7 +15,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 20px 40px 0px;
-    gap: 315px;
+    gap: 330px;
 }
 
 .logo {
@@ -40,14 +40,14 @@ a {
     background-color: #1F2937;
     display: flex;
     padding: 100px 40px;
+    gap: 20px;
+    justify-content: center;
 }
 
 .hero-content {
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
-    flex: 1;
-    padding: 0 20px 0 0;
+    width: 450px;
 }
 
 .hero-content .subtext {
@@ -56,8 +56,8 @@ a {
 
 .hero-img {
     display: flex;
-    flex: 1;
     background-color: gray;
+    width: 400px;
 }
 
 .main-text {
