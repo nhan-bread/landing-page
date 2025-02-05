@@ -1,1 +1,1 @@
-# landing-page
+Image taken by [Genaro Servín](https://www.pexels.com/@gesel/) on Pexels.
