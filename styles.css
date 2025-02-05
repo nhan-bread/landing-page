@@ -127,9 +127,14 @@ button {
 .quotation {
     background-color: #E5E7EB;
     display: flex;
+    padding: 100px 40px;
+    justify-content: center;
+}
+
+.quote-content {
+    display: flex;
     flex-direction: column;
-    gap: 5px;
-    padding: 120px;
+    width: 770px;
 }
 
 .quote {
@@ -137,7 +142,6 @@ button {
     font-size: 36px;
     font-style: italic;
     font-weight: lighter;
-    align-self: flex-start;
 }
 
 .speaker {
